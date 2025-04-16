@@ -8,7 +8,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -27,4 +26,4 @@ jobs:
 
     - name: Rodar testes unitários
       run: |
-        python -m unittest discover -s . -p "math_utils.py"
+        pytest
