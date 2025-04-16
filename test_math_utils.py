@@ -1,7 +1,7 @@
 import pytest
 from math_utils import add, subtract, multiply
 
-class TestMathUtils(pytest.TestCase):
+class TestMathUtils(pytest.TestReport):
     def test_add(self):
         self.assertEqual(add(5, 5), 10)
         self.assertEqual(add(-1, 1), 0)
