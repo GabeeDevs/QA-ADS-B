@@ -18,7 +18,3 @@ class TestMathUtils(unittest.TestResult):
             multiply("a", 3)
         except ValueError:
             assert True
-
-
-if __name__ == '__main__':
-    unittest.main()
