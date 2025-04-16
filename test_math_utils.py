@@ -1,7 +1,7 @@
 import unittest
 from math_utils import add, subtract, multiply
 
-class TestMathUtils(unittest.TestReport):
+class TestMathUtils(unittest.TestResult):
     def test_add(self):
         self.assertEqual(add(5, 5), 10)
         self.assertEqual(add(-1, 1), 0)
