@@ -106,7 +106,7 @@ Descrição: Avaliar se os controles funcionam bem em diferentes dispositivos.
 
 Itens de Execução:
 
-Testar em desktop (teclado) e mobile (toque).
+Testar em desktop (teclado) e controle (controle).
 
 Verificar responsividade de comandos.
 
