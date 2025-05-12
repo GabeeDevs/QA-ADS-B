@@ -1,7 +1,7 @@
 # Pasta de artefato do projeto final (3.0 pontos)
 
-Testes Unitários
-Cenário 1: Movimento do Personagem
+# Testes Unitários
+ #Cenário 1: Movimento do Personagem
 Descrição: Verificar se o personagem principal corre e salta corretamente.
 
 Itens de Execução:
@@ -12,7 +12,7 @@ Testar salto com comando único (barra de espaço ou toque).
 
 Validação: O personagem deve correr continuamente e responder corretamente ao comando de salto.
 
-Cenário 2: Detecção de Colisão
+#Cenário 2: Detecção de Colisão
 Descrição: Validar se a colisão entre o personagem e os obstáculos está funcionando corretamente.
 
 Itens de Execução:
@@ -23,7 +23,7 @@ Testar cenários sem colisão (salto bem-sucedido).
 
 Validação: A colisão deve encerrar o jogo e exibir a tela de “game over” corretamente.
 
-Cenário 3: Geração de Obstáculos
+#Cenário 3: Geração de Obstáculos
 Descrição: Verificar se os obstáculos aparecem em intervalos e posições coerentes.
 
 Itens de Execução:
@@ -34,7 +34,7 @@ Validar variação entre tipos de obstáculos.
 
 Validação: Obstáculos devem aparecer de forma randômica e em distâncias razoáveis para permitir reação do jogador.
 
-Cenário 4: Sistema de Pontuação
+#Cenário 4: Sistema de Pontuação
 Descrição: Garantir que o sistema de pontuação acumule pontos com o tempo.
 
 Itens de Execução:
@@ -45,7 +45,7 @@ Testar reset de pontuação após reinício do jogo.
 
 Validação: A pontuação deve aumentar com o tempo e reiniciar corretamente após falha.
 
-Cenário 5: Aumento de Dificuldade
+#Cenário 5: Aumento de Dificuldade
 Descrição: Verificar se a dificuldade aumenta gradualmente com o tempo.
 
 Itens de Execução:
@@ -57,10 +57,9 @@ Avaliar introdução de novos obstáculos com o progresso.
 Validação: A velocidade deve aumentar de forma perceptível após certo tempo e novos obstáculos devem ser introduzidos.
 
 
-Testes de Usabilidade
+#Testes de Usabilidade
 Cenário 1: Início Rápido da Partida
 Descrição: Avaliar se o jogador consegue iniciar a partida de forma intuitiva.
-
 Itens de Execução:
 
 Jogador tenta iniciar o jogo sem instruções.
@@ -69,7 +68,7 @@ Identificar se o jogador reconhece o comando de início (barra de espaço/toque)
 
 Validação: O usuário deve conseguir iniciar o jogo sem precisar de tutorial.
 
-Cenário 2: Clareza Visual dos Obstáculos
+#Cenário 2: Clareza Visual dos Obstáculos
 Descrição: Verificar se os obstáculos são claramente visíveis e distinguíveis.
 
 Itens de Execução:
@@ -80,7 +79,7 @@ Avaliar contraste com o fundo e legibilidade.
 
 Validação: Obstáculos devem ser fáceis de identificar e diferenciar em movimento.
 
-Cenário 3: Feedback de Colisão
+#Cenário 3: Feedback de Colisão
 Descrição: Avaliar se o jogador entende que perdeu e por quê.
 
 Itens de Execução:
@@ -91,7 +90,7 @@ Observar clareza do feedback visual e sonoro.
 
 Validação: Feedback de "game over" deve ser imediato e compreensível.
 
-Cenário 4: Reinício do Jogo
+#Cenário 4: Reinício do Jogo
 Descrição: Avaliar se o jogador consegue reiniciar o jogo facilmente.
 
 Itens de Execução:
@@ -102,7 +101,7 @@ Verificar se botão ou comando para reinício é intuitivo.
 
 Validação: O jogador deve conseguir reiniciar a partida sem dificuldade.
 
-Cenário 5: Acessibilidade de Controles
+#Cenário 5: Acessibilidade de Controles
 Descrição: Avaliar se os controles funcionam bem em diferentes dispositivos.
 
 Itens de Execução:
@@ -113,8 +112,8 @@ Verificar responsividade de comandos.
 
 Validação: Os controles devem funcionar corretamente em todas as plataformas.
 
- Testes de Performance
-Cenário 1: Desempenho Contínuo por Longo Período
+ #Testes de Performance
+#Cenário 1: Desempenho Contínuo por Longo Período
 Descrição: Avaliar estabilidade do jogo após longos períodos de execução.
 
 Itens de Execução:
@@ -125,7 +124,7 @@ Monitorar uso de memória e CPU.
 
 Validação: O jogo deve se manter estável, sem quedas de desempenho ou travamentos.
 
-Cenário 2: Carregamento Inicial
+#Cenário 2: Carregamento Inicial
 Descrição: Verificar o tempo necessário para o jogo estar pronto após o carregamento.
 
 Itens de Execução:
