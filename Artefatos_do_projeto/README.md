@@ -1,7 +1,7 @@
 # Pasta de artefato do projeto final (3.0 pontos)
 
 #  Testes Unitários
- #Cenário 1: Movimento do Personagem
+Cenário 1: Movimento do Personagem
 Descrição: Verificar se o personagem principal corre e salta corretamente.
 
 Itens de Execução:
