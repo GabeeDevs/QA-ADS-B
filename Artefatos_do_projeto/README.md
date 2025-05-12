@@ -118,7 +118,7 @@ Descrição: Avaliar estabilidade do jogo após longos períodos de execução.
 
 Itens de Execução:
 
-Rodar o jogo por 15 minutos ininterruptos.
+Rodar o jogo por 1 minutos ininterruptos.
 
 Monitorar uso de memória e CPU.
 
