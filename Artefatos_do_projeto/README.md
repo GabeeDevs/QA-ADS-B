@@ -112,7 +112,7 @@ Verificar responsividade de comandos.
 
 Validação: Os controles devem funcionar corretamente em todas as plataformas.
 
- #Testes de Performance
+ # Testes de Performance
 #Cenário 1: Desempenho Contínuo por Longo Período
 Descrição: Avaliar estabilidade do jogo após longos períodos de execução.
 
