@@ -57,7 +57,7 @@ Avaliar introdução de novos obstáculos com o progresso.
 Validação: A velocidade deve aumentar de forma perceptível após certo tempo e novos obstáculos devem ser introduzidos.
 
 
-#Testes de Usabilidade
+#  Testes de Usabilidade
 Cenário 1: Início Rápido da Partida
 Descrição: Avaliar se o jogador consegue iniciar a partida de forma intuitiva.
 Itens de Execução:
